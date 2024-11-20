@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    int area,perimeter,redius;
+    double area,perimeter,redius;
     cout<<"Enter the redius of circle in meter:";
     cin>>redius;
     perimeter=2*3.1416*redius;
