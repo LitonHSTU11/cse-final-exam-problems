@@ -5,7 +5,7 @@ int main()
     int n,sum;
     cout<<"Enter the value of n : ";
     cin>>n;
-    cout<<"The first 10 natural number is : "<<endl;
+    cout<<"The natural number is : "<<endl;
     for(int i=1;i<=n;i++)
     {
         cout<<i<<" ";
